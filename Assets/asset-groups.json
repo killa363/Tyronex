@@ -1,0 +1,37 @@
+{
+  "Features/Visuals/ESP": [
+    "Features/Visuals/ESP/glow.png"
+  ],
+  "Features/Visuals/GunVFX/HitSounds": [
+    "Features/Visuals/GunVFX/HitSounds/Bell.ogg",
+    "Features/Visuals/GunVFX/HitSounds/Bubble.ogg",
+    "Features/Visuals/GunVFX/HitSounds/Cod.ogg",
+    "Features/Visuals/GunVFX/HitSounds/Neverlose.ogg",
+    "Features/Visuals/GunVFX/HitSounds/Rust.ogg",
+    "Features/Visuals/GunVFX/HitSounds/Skeet.ogg"
+  ],
+  "Features/Visuals/GunVFX/SkinTextures": [
+    "Features/Visuals/GunVFX/SkinTextures/Web.png",
+    "Features/Visuals/GunVFX/SkinTextures/Swirl.png",
+    "Features/Visuals/GunVFX/SkinTextures/Checkers.png",
+    "Features/Visuals/GunVFX/SkinTextures/CandyCane.png",
+    "Features/Visuals/GunVFX/SkinTextures/Dots.png",
+    "Features/Visuals/GunVFX/SkinTextures/Scanning.png",
+    "Features/Visuals/GunVFX/SkinTextures/Bubbles.png",
+    "Features/Visuals/GunVFX/SkinTextures/Player FF Texture.png",
+    "Features/Visuals/GunVFX/SkinTextures/Shield Forcefield.png",
+    "Features/Visuals/GunVFX/SkinTextures/America.png",
+    "Features/Visuals/GunVFX/SkinTextures/Rainbow.png",
+    "Features/Visuals/GunVFX/SkinTextures/Akatsuki.png"
+  ],
+  "Features/Visuals/GunVFX/HitEffects": [
+    "Features/Visuals/GunVFX/HitEffects/SmokeRing.png",
+    "Features/Visuals/GunVFX/HitEffects/Particles.png",
+    "Features/Visuals/GunVFX/HitEffects/Spark.png"
+  ],
+  "Features/Visuals/GunVFX/Tracers": [
+    "Features/Visuals/GunVFX/Tracers/Dark.png",
+    "Features/Visuals/GunVFX/Tracers/Water.png",
+    "Features/Visuals/GunVFX/Tracers/Lightning.png"
+  ]
+}

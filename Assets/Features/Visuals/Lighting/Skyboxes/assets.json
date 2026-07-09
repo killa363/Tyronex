@@ -1,0 +1,294 @@
+{
+  "source": "Fallen/Tools/download_roblox_assets.py",
+  "count": 36,
+  "assets": [
+    {
+      "name": "ScaryRed-Bk",
+      "preset": "Scary Red",
+      "face": "Bk",
+      "id": "108929045660200",
+      "uri": "rbxassetid://108929045660200",
+      "file": "Scary Red/ScaryRed-Bk.png"
+    },
+    {
+      "name": "ScaryRed-Dn",
+      "preset": "Scary Red",
+      "face": "Dn",
+      "id": "78646480540009",
+      "uri": "rbxassetid://78646480540009",
+      "file": "Scary Red/ScaryRed-Dn.png"
+    },
+    {
+      "name": "ScaryRed-Ft",
+      "preset": "Scary Red",
+      "face": "Ft",
+      "id": "90546017435179",
+      "uri": "rbxassetid://90546017435179",
+      "file": "Scary Red/ScaryRed-Ft.png"
+    },
+    {
+      "name": "ScaryRed-Lf",
+      "preset": "Scary Red",
+      "face": "Lf",
+      "id": "109838453114563",
+      "uri": "rbxassetid://109838453114563",
+      "file": "Scary Red/ScaryRed-Lf.png"
+    },
+    {
+      "name": "ScaryRed-Rt",
+      "preset": "Scary Red",
+      "face": "Rt",
+      "id": "94190734796082",
+      "uri": "rbxassetid://94190734796082",
+      "file": "Scary Red/ScaryRed-Rt.png"
+    },
+    {
+      "name": "ScaryRed-Up",
+      "preset": "Scary Red",
+      "face": "Up",
+      "id": "126944775797063",
+      "uri": "rbxassetid://126944775797063",
+      "file": "Scary Red/ScaryRed-Up.png"
+    },
+    {
+      "name": "Sunset-Bk",
+      "preset": "Sunset",
+      "face": "Bk",
+      "id": "458016711",
+      "uri": "rbxassetid://458016711",
+      "file": "Sunset/Sunset-Bk.png"
+    },
+    {
+      "name": "Sunset-Dn",
+      "preset": "Sunset",
+      "face": "Dn",
+      "id": "458016826",
+      "uri": "rbxassetid://458016826",
+      "file": "Sunset/Sunset-Dn.png"
+    },
+    {
+      "name": "Sunset-Ft",
+      "preset": "Sunset",
+      "face": "Ft",
+      "id": "458016532",
+      "uri": "rbxassetid://458016532",
+      "file": "Sunset/Sunset-Ft.png"
+    },
+    {
+      "name": "Sunset-Lf",
+      "preset": "Sunset",
+      "face": "Lf",
+      "id": "458016655",
+      "uri": "rbxassetid://458016655",
+      "file": "Sunset/Sunset-Lf.png"
+    },
+    {
+      "name": "Sunset-Rt",
+      "preset": "Sunset",
+      "face": "Rt",
+      "id": "458016782",
+      "uri": "rbxassetid://458016782",
+      "file": "Sunset/Sunset-Rt.png"
+    },
+    {
+      "name": "Sunset-Up",
+      "preset": "Sunset",
+      "face": "Up",
+      "id": "458016792",
+      "uri": "rbxassetid://458016792",
+      "file": "Sunset/Sunset-Up.png"
+    },
+    {
+      "name": "Night-Bk",
+      "preset": "Night",
+      "face": "Bk",
+      "id": "5346760450",
+      "uri": "rbxassetid://5346760450",
+      "file": "Night/Night-Bk.png"
+    },
+    {
+      "name": "Night-Dn",
+      "preset": "Night",
+      "face": "Dn",
+      "id": "5346760689",
+      "uri": "rbxassetid://5346760689",
+      "file": "Night/Night-Dn.png"
+    },
+    {
+      "name": "Night-Ft",
+      "preset": "Night",
+      "face": "Ft",
+      "id": "5346760919",
+      "uri": "rbxassetid://5346760919",
+      "file": "Night/Night-Ft.png"
+    },
+    {
+      "name": "Night-Lf",
+      "preset": "Night",
+      "face": "Lf",
+      "id": "5346761102",
+      "uri": "rbxassetid://5346761102",
+      "file": "Night/Night-Lf.png"
+    },
+    {
+      "name": "Night-Rt",
+      "preset": "Night",
+      "face": "Rt",
+      "id": "5346761335",
+      "uri": "rbxassetid://5346761335",
+      "file": "Night/Night-Rt.png"
+    },
+    {
+      "name": "Night-Up",
+      "preset": "Night",
+      "face": "Up",
+      "id": "5346761509",
+      "uri": "rbxassetid://5346761509",
+      "file": "Night/Night-Up.png"
+    },
+    {
+      "name": "Snow-Bk",
+      "preset": "Snow",
+      "face": "Bk",
+      "id": "155657655",
+      "uri": "rbxassetid://155657655",
+      "file": "Snow/Snow-Bk.png"
+    },
+    {
+      "name": "Snow-Dn",
+      "preset": "Snow",
+      "face": "Dn",
+      "id": "155674246",
+      "uri": "rbxassetid://155674246",
+      "file": "Snow/Snow-Dn.png"
+    },
+    {
+      "name": "Snow-Ft",
+      "preset": "Snow",
+      "face": "Ft",
+      "id": "155657609",
+      "uri": "rbxassetid://155657609",
+      "file": "Snow/Snow-Ft.png"
+    },
+    {
+      "name": "Snow-Lf",
+      "preset": "Snow",
+      "face": "Lf",
+      "id": "155657671",
+      "uri": "rbxassetid://155657671",
+      "file": "Snow/Snow-Lf.png"
+    },
+    {
+      "name": "Snow-Rt",
+      "preset": "Snow",
+      "face": "Rt",
+      "id": "155657619",
+      "uri": "rbxassetid://155657619",
+      "file": "Snow/Snow-Rt.png"
+    },
+    {
+      "name": "Snow-Up",
+      "preset": "Snow",
+      "face": "Up",
+      "id": "155674931",
+      "uri": "rbxassetid://155674931",
+      "file": "Snow/Snow-Up.png"
+    },
+    {
+      "name": "Space-Bk",
+      "preset": "Space",
+      "face": "Bk",
+      "id": "15593304635",
+      "uri": "rbxassetid://15593304635",
+      "file": "Space/Space-Bk.png"
+    },
+    {
+      "name": "Space-Dn",
+      "preset": "Space",
+      "face": "Dn",
+      "id": "15593307656",
+      "uri": "rbxassetid://15593307656",
+      "file": "Space/Space-Dn.png"
+    },
+    {
+      "name": "Space-Ft",
+      "preset": "Space",
+      "face": "Ft",
+      "id": "15593319759",
+      "uri": "rbxassetid://15593319759",
+      "file": "Space/Space-Ft.png"
+    },
+    {
+      "name": "Space-Lf",
+      "preset": "Space",
+      "face": "Lf",
+      "id": "15593316960",
+      "uri": "rbxassetid://15593316960",
+      "file": "Space/Space-Lf.png"
+    },
+    {
+      "name": "Space-Rt",
+      "preset": "Space",
+      "face": "Rt",
+      "id": "15593329329",
+      "uri": "rbxassetid://15593329329",
+      "file": "Space/Space-Rt.png"
+    },
+    {
+      "name": "Space-Up",
+      "preset": "Space",
+      "face": "Up",
+      "id": "15593324381",
+      "uri": "rbxassetid://15593324381",
+      "file": "Space/Space-Up.png"
+    },
+    {
+      "name": "Rainbow-Bk",
+      "preset": "Rainbow",
+      "face": "Bk",
+      "id": "16573631102",
+      "uri": "rbxassetid://16573631102",
+      "file": "Rainbow/Rainbow-Bk.png"
+    },
+    {
+      "name": "Rainbow-Dn",
+      "preset": "Rainbow",
+      "face": "Dn",
+      "id": "16573631950",
+      "uri": "rbxassetid://16573631950",
+      "file": "Rainbow/Rainbow-Dn.png"
+    },
+    {
+      "name": "Rainbow-Ft",
+      "preset": "Rainbow",
+      "face": "Ft",
+      "id": "16573632795",
+      "uri": "rbxassetid://16573632795",
+      "file": "Rainbow/Rainbow-Ft.png"
+    },
+    {
+      "name": "Rainbow-Lf",
+      "preset": "Rainbow",
+      "face": "Lf",
+      "id": "16573633258",
+      "uri": "rbxassetid://16573633258",
+      "file": "Rainbow/Rainbow-Lf.png"
+    },
+    {
+      "name": "Rainbow-Rt",
+      "preset": "Rainbow",
+      "face": "Rt",
+      "id": "16573633908",
+      "uri": "rbxassetid://16573633908",
+      "file": "Rainbow/Rainbow-Rt.png"
+    },
+    {
+      "name": "Rainbow-Up",
+      "preset": "Rainbow",
+      "face": "Up",
+      "id": "16573634370",
+      "uri": "rbxassetid://16573634370",
+      "file": "Rainbow/Rainbow-Up.png"
+    }
+  ]
+}

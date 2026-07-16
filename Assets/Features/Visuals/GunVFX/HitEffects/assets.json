@@ -15,10 +15,10 @@
       "file": "Slice.png"
     },
     {
-      "name": "Lightning",
+      "name": "HitLightning",
       "id": "10524184224",
       "uri": "rbxassetid://10524184224",
-      "file": "Lightning.png"
+      "file": "HitLightning.png"
     },
     {
       "name": "Fireworks",

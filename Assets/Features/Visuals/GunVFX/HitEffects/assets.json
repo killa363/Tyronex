@@ -1,0 +1,42 @@
+{
+  "source": "Fallen/Tools/download_roblox_assets.py",
+  "count": 6,
+  "assets": [
+    {
+      "name": "Swirl",
+      "id": "10536262477",
+      "uri": "rbxassetid://10536262477",
+      "file": "Swirl.png"
+    },
+    {
+      "name": "Slice",
+      "id": "10536350143",
+      "uri": "rbxassetid://10536350143",
+      "file": "Slice.png"
+    },
+    {
+      "name": "Lightning",
+      "id": "10524184224",
+      "uri": "rbxassetid://10524184224",
+      "file": "Lightning.png"
+    },
+    {
+      "name": "Fireworks",
+      "id": "10536326678",
+      "uri": "rbxassetid://10536326678",
+      "file": "Fireworks.png"
+    },
+    {
+      "name": "Flame",
+      "id": "10546157992",
+      "uri": "rbxassetid://10546157992",
+      "file": "Flame.png"
+    },
+    {
+      "name": "Burst",
+      "id": "10536437810",
+      "uri": "rbxassetid://10536437810",
+      "file": "Burst.png"
+    }
+  ]
+}

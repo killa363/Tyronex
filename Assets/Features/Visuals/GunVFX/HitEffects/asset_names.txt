@@ -1,0 +1,6 @@
+Swirl.png = 10536262477
+Slice.png = 10536350143
+Lightning.png = 10524184224
+Fireworks.png = 10536326678
+Flame.png = 10546157992
+Burst.png = 10536437810
